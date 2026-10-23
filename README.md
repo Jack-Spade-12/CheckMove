@@ -1,8 +1,8 @@
 # CheckMove
 
-> **Copy it. Check**t. Trust it.**
+> **Copy it. Check it. Trust it.**
 >
-> An interactive Bash utility that uses `rsync` to copy files and folders, verify them with checksums, and automatically retry until the destination matches the source. 【1-61c36e】
+> An interactive Bash utility that uses `rsync` to copy files and folders, verify them with checksums, and automatically retry until the destination matches the source.
 
 ---
 
